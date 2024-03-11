@@ -1,4 +1,4 @@
-# Ear protectors affiliate site
+# Divorce coach affiliate site
 
 ### Technologies used:
 
