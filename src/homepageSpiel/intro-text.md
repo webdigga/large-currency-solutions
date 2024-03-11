@@ -1,9 +1,9 @@
 ---
-title: Want a no fuss micro-site to get your business out to the world?
+title: Lorem ipsum dolor sit amet
 description: |-
-  Nearly every business will need a website..  Not having one means falling behind the competition.
+  Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.
 
-  In the era of the automated website builder what I am offering is a more tailored approach with a focus on perfomrmance and search engine optimisation.
+  Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 
-  I am a Web Developer with 25 years of experience based in Kingston Upon Thames. You can find out more about me <a href="/posts/about" class="underline">here</a>, and take a look below at the steps needed to go from idea to a fully deployed live website.
+  Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet <a href="/posts/about" class="underline">here</a>, Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 ---

@@ -1,8 +1,7 @@
 ---
-title: Seven Kings
-description: Building fast, performant, SEO optimised micro sites, for local
-  businesses in Kingston
+title: Divorce coach
+description: A rewarding career in divorce coaching to fit around your lifestyle
 buttonText: Find out more
 buttonUrl: /posts/about/
-image: /static/img/hero.webp
+image: /static/img/divorce-hero.webp
 ---

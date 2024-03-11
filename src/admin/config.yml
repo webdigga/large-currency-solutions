@@ -21,7 +21,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Type", name: "type", widget: "string", default: "Article" }
@@ -31,15 +30,15 @@ collections:
         multiple: true
         create: true
         options: ["product, article"]
-      - label: "Right image"
-        name: "rightImage"
+      - label: "Hero image"
+        name: "heroImage"
         widget: "image"
         choose_url: true
         required: false
         media_library:
           config:
             multiple: false
-      - { label: "Right image descriptive text", name: "rightImageAlt", widget: "string", required: false }
+      - { label: "Hero image descriptive text", name: "heroImageAlt", widget: "string", required: false }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"
