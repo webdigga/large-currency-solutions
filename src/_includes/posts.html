@@ -4,28 +4,33 @@ prism: true
 ---
 
 <div class="container mt-6 px-6">
-	HERO IMAGE
+	<img src="{{ heroImage }}" />
 </div>
 
-<div class="container max-w-4xl mt-6 px-6">
-    <div class="pb-5 mb-5 border-b border-gray-100 flex flex-col md:flex-row md:justify-between">
-        <h1 class="font-bold text-5xl text-left inline-block max-w-lg mb-5 md:mb-0">{{title}}</h1>
-    </div>
+<div class="container max-w-4xl mt-6 px-6 flex flex-col lg:flex-row">
 
-    <article class="prose my-4 max-w-none flex flex-col md:block">
+	<div class="lg:pr-8 article-content">
+		<div class="pb-5 mb-5 border-b border-gray-100 flex flex-col md:flex-row md:justify-between">
+			<h1 class="font-bold text-5xl text-left inline-block max-w-lg mb-5 md:mb-0">{{ title }}</h1>
+		</div>
+	
+		<article class="prose my-4 max-w-none flex flex-col md:block">
+	
+			{{ content | safe }}		
+	
+		</article>
+	</div>
+    
 
-		{{ content | safe }}		
-
-	</article>
-
-	<section>
+	<section class="lg:w-80">
 		<iframe
 			src="https://calendly.com/saradavison/practitioner-call?embed_domain=www.saradavison.com&amp;embed_type=Inline&amp;hide_gdpr_banner=1&amp;background_color=f1f8f0&amp;text_color=040404&amp;primary_color=894a84"
 			width="100%"
 			id="booking-form-calendly"
 			height="100%"
 			frameborder="0"
-			loading="lazy">
+			loading="lazy"
+			class="booking-form">
 		</iframe>
 	</section>
 </div>

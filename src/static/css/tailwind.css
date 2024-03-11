@@ -11,8 +11,6 @@
   --affiliate-hover: #F7CA00;
 }
 
-
-
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
 }
@@ -26,4 +24,20 @@ h3 {
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
+}
+
+.booking-form {
+	min-height: 1130px;
+}
+
+@media (min-width: 698px) {
+	.booking-form {
+		min-height: 1246px;
+	}
+}
+
+@media (min-width: 1024px) {
+	.article-content {
+		width: 528px;
+	}
 }
