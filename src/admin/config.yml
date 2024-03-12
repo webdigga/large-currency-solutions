@@ -48,10 +48,14 @@ collections:
           - { label: "Embed path", name: "embedPath", widget: "string" }
       - label: "Accreditation images"
         name: "accreditationImages"
-        widget: "list"
+        widget: "list"        
         fields:
-          - { label: "Image", name: "image", widget: "image" }
-          - { label: "Image Alt", name: "imageAlt", widget: "string" }
+          - label: Accreditation image
+            name: accreditationImage
+            widget: object
+            fields:
+              - { label: Image Alt, name: imageAlt, widget: string }
+              - { label: Image, name: image, widget: image }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"

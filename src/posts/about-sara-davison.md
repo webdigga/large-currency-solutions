@@ -21,9 +21,6 @@ youTubeVideos:
       autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
       web-share" allowfullscreen></iframe>
     videoTitle: "Navigating Divorce With A Narcissist: Expert Advice From Sara Davison"
-accreditationImages:
-  - /static/img/best-you-award.avif
-  - /static/img/accreditation-1-1-.webp
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
