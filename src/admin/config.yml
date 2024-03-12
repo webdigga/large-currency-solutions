@@ -50,8 +50,8 @@ collections:
         name: "accreditationImages"
         widget: "list"
         fields:
-          - { label: Image, name: image, widget: image }
-          - { label: Image Alt, name: imageAlt, widget: string }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Image Alt", name: "imageAlt", widget: "string" }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"
