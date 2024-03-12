@@ -7,6 +7,23 @@ tags:
   - article
 heroImage: /static/img/group-session.webp
 heroImageAlt: Group session
+inTheMediaAndAccreditationsCopy: In the media Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit. Cras venenatis consequat sem sed convallis. Sed
+  at odio id nulla scelerisque sollicitudin. Suspendisse ullamcorper vulputate
+  porttitor. Vivamus sed commodo dui, nec feugiat mi. Maecenas cursus magna vel
+  ipsum tempus rutrum
+youTubeVideos:
+  - embedPath: https://www.youtube.com/embed/syuXcUGdnU0?si=2iFTEFmODpfTFYFQ
+    videoTitle: Breakup & Divorce Coach Introductory Webinar
+  - embedPath: <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/jo1fIADvx7Q?si=0U69caaxU96wMAe5"
+      title="YouTube video player" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+      web-share" allowfullscreen></iframe>
+    videoTitle: "Navigating Divorce With A Narcissist: Expert Advice From Sara Davison"
+accreditationImages:
+  - /static/img/best-you-award.avif
+  - /static/img/accreditation-1-1-.webp
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
