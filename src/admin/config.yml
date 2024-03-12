@@ -39,6 +39,21 @@ collections:
           config:
             multiple: false
       - { label: "Hero image descriptive text", name: "heroImageAlt", widget: "string", required: false }
+      - { label: "In the media and accreditations copy", name: "inTheMediaAndAccreditationsCopy", widget: "string", required: false }
+      - label: "YouTube video path"
+        name: "youTubeVideos"
+        widget: "list"
+        fields:
+          - { label: "Video title", name: "videoTitle", widget: "string" }
+          - { label: "Embed path", name: "embedPath", widget: "string" }
+      - label: "Accreditation images"
+        name: "accreditationImages"
+        widget: "list"
+        field: {
+          label: Image,
+          name: image,
+          widget: image
+        }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"
