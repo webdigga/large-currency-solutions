@@ -3,7 +3,6 @@ layout: default
 prism: true
 ---
 
-
 <div
 	class="w-full bg-cover bg-center py-56"
 	style="background-image: url('{{ heroImage }}');">
@@ -18,11 +17,12 @@ prism: true
 	
 		<article class="prose my-4 max-w-none flex flex-col md:block">
 	
-			{{ content | safe }}		
-	
+			{{ content | safe }}
+
 		</article>
 	</div>    
 
+	<!-- Calendly -->
 	<section class="lg:w-96">
 		<iframe
 			src="https://calendly.com/saradavison/practitioner-call?embed_domain=www.saradavison.com&amp;embed_type=Inline&amp;hide_gdpr_banner=1&amp;background_color=f1f8f0&amp;text_color=040404&amp;primary_color=894a84"
@@ -33,6 +33,48 @@ prism: true
 			loading="lazy"
 			class="booking-form">
 		</iframe>
-	</section>
+	</section>	
 </div>
 
+<!-- In the media and accreditations copy -->
+{% if inTheMediaAndAccreditationsCopy %}
+	<section class="container 2xl:max-w-6xl px-6 pt-8 mt-8 border-t mb-8">
+		{{ inTheMediaAndAccreditationsCopy }}
+	</section>
+{% endif %}	
+
+<!-- YouTube videos -->
+<section class="container 2xl:max-w-6xl px-6 lg:flex lg:relative lg:justify-center lg:mb-11">
+	{% set cls = cycler(true, false) %}
+	{% for youTubeVideo in youTubeVideos %}
+		{% if youTubeVideo.videoTitle and youTubeVideo.embedPath %}
+			<div class="lg:w-1/2 h-96 mb-24  prose max-w-full {% if cls.next() %}lg:mr-5{% endif %}">
+				<h2 class="mt-0">{{ youTubeVideo.videoTitle }}</h2>		
+				<iframe
+					width="100%"
+					height="100%"
+					src="{{ youTubeVideo.embedPath }}"
+					title="{{ youTubeVideo.videoTitle }}"
+					frameborder="0"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+					allowfullscreen
+					class="relative">
+				</iframe>
+			</div>			
+		{% endif %}
+	{% endfor %}
+</section>
+
+<!-- Accreditations -->
+<section class="container 2xl:max-w-6xl px-6">
+	{% for accreditationImage in accreditationImages %}
+		<img
+			src="{{ accreditationImage.accreditationImage.image }}"
+			alt="{{ accreditationImage.accreditationImage.imageAlt }}"
+			width="200px"
+			height="100%"
+			class="inline-block"
+			loading="lazy"
+		/>
+	{% endfor %}
+</section>

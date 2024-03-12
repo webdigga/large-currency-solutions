@@ -14,9 +14,9 @@ inTheMediaAndAccreditationsCopy: In the media Lorem ipsum dolor sit amet,
   ipsum tempus rutrum
 youTubeVideos:
   - embedPath: https://www.youtube.com/embed/syuXcUGdnU0?si=2iFTEFmODpfTFYFQ
-    videoTitle: Breakup & Divorce Coach Introductory Webinar
+    videoTitle: Breakup & Divorce Webinar
   - embedPath: https://www.youtube.com/embed/jo1fIADvx7Q?si=0U69caaxU96wMAe5
-    videoTitle: "Navigating Divorce With A Narcissist: Expert Advice From Sara Davison"
+    videoTitle: "Navigating Divorce With A Narcissist"
 accreditationImages:
   - accreditationImage:
       imageAlt: Image at text here
