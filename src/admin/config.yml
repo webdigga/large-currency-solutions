@@ -49,11 +49,9 @@ collections:
       - label: "Accreditation images"
         name: "accreditationImages"
         widget: "list"
-        field: {
-          label: Image,
-          name: image,
-          widget: image
-        }
+        fields:
+          - { label: Image, name: image, widget: image }
+          - { label: Image Alt, name: imageAlt, widget: string }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"
