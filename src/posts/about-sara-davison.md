@@ -1,6 +1,6 @@
 ---
 title: About Sara Davison
-description: Lorem ipsum dolor sit amet
+description: Learn how to become an accredited break up and divorce coach with Sara Davison
 date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
@@ -16,7 +16,7 @@ youTubeVideos:
   - embedPath: https://www.youtube.com/embed/syuXcUGdnU0?si=2iFTEFmODpfTFYFQ
     videoTitle: Breakup & Divorce Webinar
   - embedPath: https://www.youtube.com/embed/jo1fIADvx7Q?si=0U69caaxU96wMAe5
-    videoTitle: "Navigating Divorce With A Narcissist"
+    videoTitle: Navigating Divorce With A Narcissist
 accreditationImages:
   - accreditationImage:
       imageAlt: Image at text here
@@ -25,15 +25,14 @@ accreditationImages:
       imageAlt: Image alt text here
       image: /static/img/accreditation-1-1-.webp
 ---
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+Sara Davison, a renowned Coach, podcaster, and bestselling author, is dedicated to assisting individuals worldwide in navigating their breakups with resilience. Drawing from her personal experience of overcoming a marriage breakdown, Sara has curated a comprehensive toolkit comprising techniques, strategies, and practical advice to help individuals mitigate negative emotions and progress with newfound confidence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae risus in justo placerat venenatis. Vestibulum rutrum posuere convallis. Vestibulum vel pharetra erat. Sed sed ornare risus, eu porta est. Aliquam in felis arcu. Donec rutrum commodo posuere. Maecenas nec tristique sem. Duis at tincidunt nisi. Mauris quis consequat odio.
+Established by Sara Davison, The Divorce Coach, a multi-award-winning author, podcaster, and media commentator, offers a unique opportunity to join an inclusive International Coaching Community. With Sara's guidance, aspiring Coaches gain access to invaluable resources and support to establish and expand their coaching ventures successfully.
 
-Nullam eget pretium magna. Sed efficitur sem sit amet nunc porta, vel tempor ex tempus. Aliquam eu condimentum felis. Duis lorem lacus, iaculis eget pulvinar quis, tincidunt sit amet elit. Etiam faucibus, ligula et ornare facilisis, metus lectus ultricies nunc, et rutrum orci turpis molestie erat. Maecenas dictum semper urna, a pellentesque eros condimentum quis. Nunc nec erat nisi. In sagittis nisl dapibus, euismod turpis nec, faucibus arcu. Morbi accumsan tellus a eros luctus placerat. Nam a porta metus, ac tristique arcu. Curabitur ullamcorper elementum est, eget lobortis leo cursus quis.
+Joining her vibrant coaching community not only provides a supportive environment but also equips you with essential business tools necessary for cultivating a thriving coaching practice tailored to your passion.
 
-In eu enim vulputate, accumsan est ut, tincidunt nibh. Aliquam ultricies elit quis eros pellentesque, ac blandit felis tempus. Duis suscipit venenatis vestibulum. Sed pulvinar gravida urna, non pretium purus ultrices non. Pellentesque neque quam, cursus sed ante at, ultrices cursus dui. Aenean in aliquam risus. Morbi nulla ligula, aliquet non feugiat vel, rutrum vitae nunc. Aenean commodo, enim vel viverra elementum, justo lorem lobortis ante, ac blandit sem sem id elit. In ullamcorper egestas turpis vel consequat. Sed ac quam pharetra, ultricies erat sit amet, rutrum ligula. Mauris molestie lorem mi, eu suscipit eros sagittis vitae. Nam tincidunt libero in dolor pharetra, id accumsan diam mattis. Donec non facilisis libero, ut sodales felis.
+Her Breakup & Divorce Coaching Accreditations empower Coaches to effectively support individuals, regardless of gender, through the emotional upheaval and practical hurdles of any breakup.
+
+Through Sara's 28 years of coaching experience, her methodologies have been refined to deliver tangible results. By sharing her proven techniques, Sara ensures that Coaches are equipped with the necessary skills to facilitate positive transformations in their clients' lives.
+
+Whether you're new to coaching or seeking to enhance your existing practice, her training program offers a fast-track to proficiency. With Sara's tried-and-tested tools, you'll confidently guide your clients towards lasting positive changes, accelerating your journey to becoming a competent and successful coach.
