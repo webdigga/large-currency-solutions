@@ -1,5 +1,5 @@
 ---
-title: Divorce coach
+title: Divorce coaching
 description: A rewarding career in divorce coaching to fit around your lifestyle
 buttonText: Find out more
 buttonUrl: /posts/about/
