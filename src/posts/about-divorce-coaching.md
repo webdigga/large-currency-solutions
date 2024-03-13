@@ -5,8 +5,8 @@ date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
   - article
-heroImage: /static/img/group-session.webp
-heroImageAlt: Group session
+heroImage: /static/img/about-coaching-large.webp
+heroImageAlt: iPad with information on
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

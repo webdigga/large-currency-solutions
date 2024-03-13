@@ -2,7 +2,7 @@
 title: Advanced training programmes
 description: "Lorem ipsum dolor sit amet."
 articleLink: /posts/advanced-training-programmes/
-imageAlt: Lorem ipsum dolor sit amet
-image: /static/img/launch.webp
+imageAlt: Planning and training session with post-its
+image: /static/img/advanced-training.webp
 order: 5
 ---

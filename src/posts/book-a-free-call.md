@@ -5,8 +5,8 @@ date: 2024-03-13T09:11:44.082Z
 type: Article
 tags:
   - article
-heroImage: /static/img/group-session.webp
-heroImageAlt: Group training session
+heroImage: /static/img/book-a-call.webp
+heroImageAlt: Old telephones
 ---
 Info here about how the booking system works and what the process is.
 

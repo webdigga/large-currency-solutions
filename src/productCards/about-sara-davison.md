@@ -2,7 +2,7 @@
 title: About Sara Davison
 description: Lorem ipsum dolor sit amet.
 articleLink: /posts/about-sara-davison/
-imageAlt: Lorem ipsum dolor sit amet
-image: /static/img/consultation.jpg
+imageAlt: Magnifide view of the sea
+image: /static/img/about-sara.webp
 order: 1
 ---

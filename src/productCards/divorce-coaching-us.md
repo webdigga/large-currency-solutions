@@ -1,8 +1,8 @@
 ---
-title: Divorce Coaching US
+title: Divorce Coaching U.S.
 description: "Lorem ipsum dolor sit amet."
 articleLink: /posts/divorce-coaching-us/
-imageAlt: Lorem ipsum dolor sit amet
-image: /static/img/support.jpg
+imageAlt: U.S. flag
+image: /static/img/us.webp
 order: 9
 ---

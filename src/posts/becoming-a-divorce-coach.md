@@ -5,8 +5,8 @@ date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
   - article
-heroImage: /static/img/group-session.webp
-heroImageAlt: Group session
+heroImage: /static/img/becoming-large.webp
+heroImageAlt: One to one training session
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

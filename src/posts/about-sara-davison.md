@@ -5,8 +5,8 @@ date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
   - article
-heroImage: /static/img/group-session.webp
-heroImageAlt: Group session
+heroImage: /static/img/about-sara-large.webp
+heroImageAlt: Magnifide view of the sea
 inTheMediaAndAccreditationsCopy: In the media Lorem ipsum dolor sit amet,
   consectetur adipiscing elit. Cras venenatis consequat sem sed convallis. Sed
   at odio id nulla scelerisque sollicitudin. Suspendisse ullamcorper vulputate

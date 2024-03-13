@@ -5,8 +5,8 @@ date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
   - article
-heroImage: /static/img/group-session.webp
-heroImageAlt: Group session
+heroImage: /static/img/practitioner-training-large.webp
+heroImageAlt: Person writing notes on a pad
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

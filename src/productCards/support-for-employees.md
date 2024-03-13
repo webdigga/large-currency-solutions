@@ -2,7 +2,7 @@
 title: Support for employees
 description: "Lorem ipsum dolor sit amet."
 articleLink: /posts/support-for-employees/
-imageAlt: Lorem ipsum dolor sit amet
-image: /static/img/support.jpg
+imageAlt: People in a circle touching fists
+image: /static/img/support-employees.webp
 order: 8
 ---

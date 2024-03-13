@@ -5,8 +5,8 @@ date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
   - article
-heroImage: /static/img/group-session.webp
-heroImageAlt: Group session
+heroImage: /static/img/support-employees-large.webp
+heroImageAlt: People in a circle touching fists
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
