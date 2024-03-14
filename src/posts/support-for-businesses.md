@@ -6,7 +6,6 @@ type: Article
 tags:
   - article
 heroImage: /static/img/support-businesses-large.webp
-heroImageAlt: People's hands placed on top of each other
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

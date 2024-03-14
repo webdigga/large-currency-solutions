@@ -6,7 +6,6 @@ type: Article
 tags:
   - article
 heroImage: /static/img/book-a-call.webp
-heroImageAlt: Old telephones
 ---
 Info here about how the booking system works and what the process is.
 

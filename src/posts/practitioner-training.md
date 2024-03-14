@@ -6,7 +6,6 @@ type: Article
 tags:
   - article
 heroImage: /static/img/practitioner-training-large.webp
-heroImageAlt: Person writing notes on a pad
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

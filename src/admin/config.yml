@@ -38,7 +38,6 @@ collections:
         media_library:
           config:
             multiple: false
-      - { label: "Hero image descriptive text", name: "heroImageAlt", widget: "string", required: false }
       - { label: "In the media and accreditations copy", name: "inTheMediaAndAccreditationsCopy", widget: "string", required: false }
       - label: "YouTube video path"
         name: "youTubeVideos"

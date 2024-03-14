@@ -6,7 +6,6 @@ type: Article
 tags:
   - article
 heroImage: /static/img/group-session.webp
-heroImageAlt: Group support session
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

@@ -6,7 +6,6 @@ type: Article
 tags:
   - article
 heroImage: /static/img/advanced-training-large.webp
-heroImageAlt: Planning and training session with post-its
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

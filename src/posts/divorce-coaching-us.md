@@ -6,7 +6,6 @@ type: Article
 tags:
   - article
 heroImage: /static/img/us-large.webp
-heroImageAlt: U.S. flag
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

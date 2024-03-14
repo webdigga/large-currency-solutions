@@ -6,7 +6,6 @@ type: Article
 tags:
   - article
 heroImage: /static/img/becoming-large.webp
-heroImageAlt: One to one training session
 ---
 
 
