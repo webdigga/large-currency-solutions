@@ -1,5 +1,5 @@
 ---
-title: About Sara Davison
+title: The Divorce Coach
 description: Learn how to become an accredited break up and divorce coach with Sara Davison
 date: 2024-03-11T11:28:32.363Z
 type: Article
