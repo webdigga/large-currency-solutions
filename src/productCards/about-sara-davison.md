@@ -1,5 +1,5 @@
 ---
-title: About Sara Davison
+title: The Divorce Coach
 description: Lorem ipsum dolor sit amet.
 articleLink: /posts/about-sara-davison/
 imageAlt: Magnifide view of the sea
