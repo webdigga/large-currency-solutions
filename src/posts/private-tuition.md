@@ -1,11 +1,11 @@
 ---
-title: Support for employees
+title: Private tuition
 description: Lorem ipsum dolor sit amet
-date: 2024-03-11T11:28:32.363Z
+date: 2024-03-13T09:11:44.082Z
 type: Article
 tags:
   - article
-heroImage: /static/img/support-employees-large.webp
+heroImage: /static/img/private-tuition-large.webp
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

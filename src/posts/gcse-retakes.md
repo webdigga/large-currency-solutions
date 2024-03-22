@@ -1,11 +1,11 @@
 ---
-title: Divorce Coaching U.S.
+title: GCSE retakes
 description: Lorem ipsum dolor sit amet
 date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
   - article
-heroImage: /static/img/us-large.webp
+heroImage: /static/img/gcse-retakes-large.webp
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

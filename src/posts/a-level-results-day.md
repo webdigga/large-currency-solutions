@@ -1,11 +1,11 @@
 ---
-title: Advanced training programmes
+title: A-level results day
 description: Lorem ipsum dolor sit amet
 date: 2024-03-11T11:28:32.363Z
 type: Article
 tags:
   - article
-heroImage: /static/img/advanced-training-large.webp
+heroImage: /static/img/exam-results-day-large.webp
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
