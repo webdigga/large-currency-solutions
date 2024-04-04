@@ -1,11 +1,11 @@
 ---
-title: Private A-level candidates
+title: First blog post
 description: Lorem ipsum dolor sit amet
-date: 2024-03-11T11:28:32.363Z
+date: 2024-04-03
 type: article
 tags:
-  - article
-heroImage: /static/img/private-exam-candidates-large.webp
+  - blog
+heroImage: /static/img/exam-courses-large.webp
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet

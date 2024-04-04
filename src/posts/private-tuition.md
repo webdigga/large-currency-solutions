@@ -2,7 +2,7 @@
 title: Private tuition
 description: Lorem ipsum dolor sit amet
 date: 2024-03-13T09:11:44.082Z
-type: Article
+type: article
 tags:
   - article
 heroImage: /static/img/private-tuition-large.webp

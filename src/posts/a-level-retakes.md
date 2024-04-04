@@ -2,7 +2,7 @@
 title: A-level-retakes
 description: Lorem ipsum dolor sit amet
 date: 2024-03-11T11:28:32.363Z
-type: Article
+type: article
 tags:
   - article
 heroImage: /static/img/a-level-retakes-large.webp
