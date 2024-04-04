@@ -41,23 +41,6 @@ collections:
         media_library:
           config:
             multiple: false
-      - { label: "In the media and accreditations copy", name: "inTheMediaAndAccreditationsCopy", widget: "string", required: false }
-      - label: "YouTube video path"
-        name: "youTubeVideos"
-        widget: "list"
-        fields:
-          - { label: "Video title", name: "videoTitle", widget: "string" }
-          - { label: "Embed path", name: "embedPath", widget: "string" }
-      - label: "Accreditation images"
-        name: "accreditationImages"
-        widget: "list"        
-        fields:
-          - label: Accreditation image
-            name: accreditationImage
-            widget: object
-            fields:
-              - { label: Image Alt, name: imageAlt, widget: string }
-              - { label: Image, name: image, widget: image }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"
