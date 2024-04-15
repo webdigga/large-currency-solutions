@@ -1,4 +1,4 @@
-# A-level retakes affiliate site
+# Large currenty solutions affiliate site
 
 ### Technologies used:
 
