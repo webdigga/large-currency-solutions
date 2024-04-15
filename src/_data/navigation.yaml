@@ -1,11 +1,11 @@
 items:
   - text: Home
     url: /
-  - text: A-level retakes
+  - text: Lorem
     url: /posts/a-level-retakes/
-  - text: A-level courses
+  - text: Ipsum
     url: /posts/a-level-courses/
-  - text: A-level results day
+  - text: Dolor
     url: /posts/a-level-results-day/
-  - text: Blog
+  - text: Amet
     url: /blog/

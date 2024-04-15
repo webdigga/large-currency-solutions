@@ -1,11 +1,10 @@
 {% set homepageSpiel = collections.homepageSpiel %}
 
-{% if homepageSpiel[0].data.title and homepageSpiel[0].data.description %}
-	<div class="grid grid-cols-1 gap-3 px-4 mb-8" style="max-width: 1200px">
-
-		<h2 class="text-lg"><strong>{{ homepageSpiel[0].data.title }}</strong></h2>
-
-		<p>{{ homepageSpiel[0].data.description | markdown | safe }}</p>
-
-	</div>
-{% endif %}
+<div class="md:mt-0 px-4">
+	<h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
+		Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet
+	</h2>
+	<p class="text-lg mt-4 text-slate-600">
+		Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.
+	</p>
+</div>
