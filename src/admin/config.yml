@@ -69,8 +69,10 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Button text", name: "buttonText", widget: "string" }
-      - { label: "Button URL", name: "buttonUrl", widget: "string" }
+      - { label: "Button one text", name: "buttonOneText", widget: "string" }
+      - { label: "Button one URL", name: "buttonOneUrl", widget: "string" }
+      - { label: "Button two text", name: "buttonTwoText", widget: "string" }
+      - { label: "Button two URL", name: "buttonTwoUrl", widget: "string" }
       - label: "Image"
         name: "image"
         widget: "image"
@@ -78,6 +80,7 @@ collections:
         media_library:
           config:
             multiple: false
+      - { label: "Image alt", name: "imageAlt", widget: "string" }
   - label: "Homepage spiel"
     name: "homepageSpiel"
     folder: "src/homepageSpiel"

@@ -1,41 +1,41 @@
 {% set hero = collections.hero %}
 
 <main class="grid lg:grid-cols-2 md:place-items-center px-4 mb-8 pt-8 lg:pt-0">
-	<div>
-	  <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-		Lorem ipsum dolor sit amet
-	  </h1>
-	  <p class="text-lg mt-4 text-slate-600 max-w-xl">
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet commodo metus.<wbr /> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet commodo metus.
-	  </p>
-	  <div class="mt-6 flex flex-col sm:flex-row gap-3">
-		<a
-		  href="#"
-		  class="rounded text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 px-5 py-2.5 bg-black text-white hover:bg-gray-800  border-2 border-transparent flex gap-1 items-center justify-center"		  
-		  target="_blank"
-		  rel="noopener"
-		>
-		  Lorem ipsum
-		</a>
-		<a
-		  href="#"  
-		  class="rounded text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 px-5 py-2.5 bg-white border-2 border-black hover:bg-gray-100 text-black  flex gap-1 items-center justify-center"
-		  target="_blank"
-		  rel="noopener"
-		>
-		  Lorem ipsum
-		</a>
-	  </div>
-	</div>
+    <div>
+        <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
+            {{ hero[0].data.title }}
+        </h1>
+        <p class="text-lg mt-4 text-slate-600 max-w-xl">
+            {{ hero[0].data.description }}
+        </p>
+        <div class="mt-6 flex flex-col sm:flex-row gap-3">
+            <a
+                href="{{ hero[0].data.buttonOneUrl }}"
+                class="rounded text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 px-5 py-2.5 bg-black text-white hover:bg-gray-800  border-2 border-transparent flex gap-1 items-center justify-center"		  
+                target="_blank"
+                rel="noopener"
+            >
+                {{ hero[0].data.buttonOneText }}
+            </a>
+            <a
+                href="{{ hero[0].data.buttonTwoUrl }}"  
+                class="rounded text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 px-5 py-2.5 bg-white border-2 border-black hover:bg-gray-100 text-black  flex gap-1 items-center justify-center"
+                target="_blank"
+                rel="noopener"
+            >
+                {{ hero[0].data.buttonOneText }}
+            </a>
+        </div>
+    </div>
 
-	<div class="pt-6 flex place-self-center">
-		<img
-		  src="/static/img/hero.webp"
-		  alt="Astronaut in the air"
-		  loading="eager"
-		  format="avif"
-		  width="500px"
-		  height="500px"
-		/>
-	  </div>
-  </main>
+    <div class="pt-6 flex place-self-center">
+        <img
+            src="{{ hero[0].data.image }}"
+            alt="{{ hero[0].data.imageAlt }}"
+            loading="eager"
+            format="avif"
+            width="500px"
+            height="500px"
+        />
+    </div>
+</main>
