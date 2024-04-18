@@ -73,6 +73,17 @@ collections:
           config:
             multiple: false
       - { label: "Image alt", name: "imageAlt", widget: "string" }
+  - label: "Call to action"
+    name: "callToAction"
+    folder: "src/callToAction"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Button text", name: "buttonText", widget: "string" }
+      - { label: "Button URL", name: "buttonUrl", widget: "string" }
   - label: "Homepage spiel"
     name: "homepageSpiel"
     folder: "src/homepageSpiel"
