@@ -1,8 +1,6 @@
 ---
-title: A-level courses
-description: "Lorem ipsum dolor sit amet."
+title: Lorem ipsum dolor sit amet
+description: Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.
 articleLink: /posts/a-level-courses/
-imageAlt: Girl and boy studying
-image: /static/img/exam-courses-small.webp
-order: 3
+order: 1
 ---

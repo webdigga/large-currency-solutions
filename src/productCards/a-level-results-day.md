@@ -1,8 +1,6 @@
 ---
-title: A-level results day
-description: Lorem ipsum dolor sit amet.
+title: Lorem ipsum dolor sit amet
+description: Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.
 articleLink: /posts/a-level-results-day/
-imageAlt: Man celebrating exam results
-image: /static/img/exam-results-day-small.webp
-order: 4
+order: 2
 ---

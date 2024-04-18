@@ -13,9 +13,9 @@ path: home
   <div class="grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16 px-4">
 	{% set productCardList = collections.productCard %}
 
-    {#% for productCard in productCardList | sort(false, true, 'data.order') %#}
+    {% for productCard in productCardList | sort(false, true, 'data.order') %}
 		{% include "./_includes/components/product-card.html" %}
-    {#% endfor %#}
+    {% endfor %}
   </div>
 
   {% include "./_includes/components/callToAction.html" %}
