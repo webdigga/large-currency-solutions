@@ -1,11 +1,11 @@
 items:
   - text: Home
     url: /
-  - text: Lorem
-    url: /posts/a-level-retakes/
-  - text: Ipsum
-    url: /posts/a-level-courses/
-  - text: Dolor
-    url: /posts/a-level-results-day/
+  - text: Buying a property overseas
+    url: /posts/buying-a-property-overseas/
+  - text: Regular overseas payments
+    url: /posts/regular-overseas-payments/
+  - text: Transferring your pension to the UK
+    url: /posts/transferring-your-pension-to-the-uk/
   - text: Blog
     url: /blog/
