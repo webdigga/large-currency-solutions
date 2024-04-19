@@ -1,11 +1,11 @@
 ---
-title: A-level-courses
+title: Buying A Property Overseas
 description: Lorem ipsum dolor sit amet
 date: 2024-03-11T11:28:32.363Z
 type: article
 tags:
   - article
-heroImage: /static/img/exam-courses-large.webp
+heroImage: /static/img/property-overseas.webp
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
