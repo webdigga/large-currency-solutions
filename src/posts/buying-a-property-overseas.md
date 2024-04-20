@@ -6,6 +6,21 @@ type: article
 tags:
   - article
 heroImage: /static/img/property-overseas.webp
+highlightsBoxes:
+  - title: Lorem ipsum dolor sit amet
+    highlightsListItem:
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
+  - title: Lorem ipsum dolor sit amet
+    highlightsListItem:
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Lorem ipsum dolor sit amet
 ---
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
