@@ -1,6 +1,6 @@
 ---
 title: Buying A Property Overseas
-description: Buying A Propery Overseas with the best exchange rates
+description: Buying A Propery Overseas With The Best Exchange Rates
 date: 2024-03-11T11:28:32.363Z
 type: article
 tags:
