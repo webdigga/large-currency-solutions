@@ -7,20 +7,20 @@ tags:
   - article
 heroImage: /static/img/property-overseas.webp
 highlightsBoxes:
-  - title: Lorem ipsum dolor sit amet
+  - title: The Benefits of An FX Broker
     highlightsListItem:
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
-  - title: Lorem ipsum dolor sit amet
+      - highlight: Your own deictaed account Manager
+      - highlight: The best rates with no fee's over £3k
+      - highlight: Fast, secure ann simple cross-border payments
+      - highlight: Access to over 40 popular currencies including GBP, EUR, USD & AED
+      - highlight: Brokers with proven industry knowledge & expertise
+  - title: Types of Products
     highlightsListItem:
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
-      - highlight: Lorem ipsum dolor sit amet
+      - highlight: Spot Contracts
+      - highlight: Forward Contracts
+      - highlight: Market Orders
+      - highlight: Business Options
+      - highlight: Personal Accounts
 ---
 
 
