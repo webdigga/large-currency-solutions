@@ -7,8 +7,8 @@ description: Fast & Reliable FX & Payment Services for overseas large currency
   International Money Transfers.
 buttonOneText: Get A Free Quote
 buttonOneUrl: https://www.currencysolutions.com/?utm_source=arragon-affiliates
-buttonTwoText: No Fees Over £3k
-buttonTwoUrl: https://www.currencysolutions.com/?utm_source=arragon-affiliates
+buttonTwoText: Open Free Account
+buttonTwoUrl: https://www.currencysolutions.com/register?utm_source=arragon-affiliates
 image: /static/img/hero.webp
 imageAlt: Hands grabbing money from the air
 ---
