@@ -6,6 +6,10 @@ type: article
 tags:
   - article
 heroImage: /static/img/yacht.webp
+buttonOneText: Get A Free Quote
+buttonOneUrl: https://www.currencysolutions.com/?utm_source=arragon-affiliates
+buttonTwoText: Open Free Account
+buttonTwoUrl: https://www.currencysolutions.com/register?utm_source=arragon-affiliates
 ---
 **The Importance of Using a Currency Broker for Regular Overseas Payments**
 

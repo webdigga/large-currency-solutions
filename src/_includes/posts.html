@@ -24,6 +24,34 @@ layout: default
 	
 			{{ content | safe }}
 
+			{% if buttonOneUrl or buttonTwoUrl %}
+				<div class="mt-6 flex flex-col sm:flex-row gap-3 justify-end">
+
+					{% if buttonOneUrl and buttonOneText %}
+						<a
+							href="{{ buttonOneUrl }}"
+							class="no-underline rounded text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 px-5 py-2.5 bg-black text-white hover:bg-gray-800  border-2 border-transparent flex gap-1 items-center justify-center"		  
+							target="_blank"
+							rel="noopener"
+						>
+							{{ buttonOneText }}
+						</a>
+					{% endif %}
+
+					{% if buttonTwoUrl or buttonTwoText %}
+						<a
+							href="{{ buttonTwoUrl }}"  
+							class="no-underline rounded text-center transition focus-visible:ring-2 ring-offset-2 ring-gray-200 px-5 py-2.5 bg-white border-2 border-black hover:bg-gray-100 text-black  flex gap-1 items-center justify-center"
+							target="_blank"
+							rel="noopener"
+						>
+							{{ buttonTwoText }}
+						</a>
+					{% endif %}
+
+				</div>
+			{% endif %}
+
 		</article>
 
 		<!-- Highlight boxes -->
@@ -45,7 +73,7 @@ layout: default
                                                 <svg
 													xmlns="http://www.w3.org/2000/svg"
 													viewBox="0 0 24 24"
-													fill="var(--primary-color)"
+													fill="black"
 													class="w-6 h-6">
 													<path
 														fill-rule="evenodd"

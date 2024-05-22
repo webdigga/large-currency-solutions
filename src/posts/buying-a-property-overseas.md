@@ -21,6 +21,10 @@ highlightsBoxes:
       - highlight: Market Orders
       - highlight: Business Options
       - highlight: Personal Accounts
+buttonOneText: Get A Free Quote
+buttonOneUrl: https://www.currencysolutions.com/?utm_source=arragon-affiliates
+buttonTwoText: Open Free Account
+buttonTwoUrl: https://www.currencysolutions.com/register?utm_source=arragon-affiliates
 ---
 
 

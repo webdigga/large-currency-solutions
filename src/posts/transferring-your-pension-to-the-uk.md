@@ -6,6 +6,10 @@ type: article
 tags:
   - article
 heroImage: /static/img/old-couple.webp
+buttonOneText: Get A Free Quote
+buttonOneUrl: https://www.currencysolutions.com/?utm_source=arragon-affiliates
+buttonTwoText: Open Free Account
+buttonTwoUrl: https://www.currencysolutions.com/register?utm_source=arragon-affiliates
 ---
 **Transferring pensions to and from the UK involves navigating currency exchange rates and ensuring secure transactions. Using a currency solutions provider offers numerous benefits, making the process smoother and more cost-effective. Here’s why engaging a currency solutions provider is advantageous:**
 
