@@ -51,10 +51,10 @@ collections:
             widget: list
             fields:
               - { label: Highlight, name: highlight, widget: string }
-      - { label: "Button one text", name: "buttonOneText", widget: "string" }
-      - { label: "Button one URL", name: "buttonOneUrl", widget: "string" }
-      - { label: "Button two text", name: "buttonTwoText", widget: "string" }
-      - { label: "Button two URL", name: "buttonTwoUrl", widget: "string" }
+      - { label: "Button one text", name: "buttonOneText", widget: "string", required: false }
+      - { label: "Button one URL", name: "buttonOneUrl", widget: "string", required: false }
+      - { label: "Button two text", name: "buttonTwoText", widget: "string", required: false }
+      - { label: "Button two URL", name: "buttonTwoUrl", widget: "string", required: false }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"
