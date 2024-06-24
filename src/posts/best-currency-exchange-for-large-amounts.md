@@ -2,10 +2,10 @@
 title: Best Currency Exchange For Large Amounts
 description: Get best exchange rates for large amounts with no fees over £3,000
 date: 2024-04-04
-type: article
+type: blog
 tags:
   - blog
-heroImage: /static/img/exam-courses-large.webp
+heroImage: /static/img/best-large-currency-exchange-for-large-amounts.webp
 ---
 Looking for the best currency exchange for large amounts?
 
