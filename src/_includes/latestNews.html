@@ -1,0 +1,25 @@
+---
+title: Latest News
+seoTitle: Latest News | Tips on Foreign Exchange & Money Transfers
+layout: default
+type: website
+description: Discover strategies on foreign exchange and large currency transfers. Follow the latest trends to make the most of your international money transfers
+---
+
+{% include "./components/currencyExchange.html" %}
+
+<div class="container max-w-3xl mt-6 px-6 prose">
+
+    <h1 class="text-left font-bold text-5xl">{{ title }}</h1>
+
+    <h2 class="font-bold text-3xl">Latest Insights and Tips on Large Currency Transfers</h2>
+
+    <p>
+      Welcome to our Latest News section, where we provide the latest insights and expert tips on large currency transfers. Whether you're managing international transactions, investing abroad, or planning major purchases, our articles offer valuable information to help you navigate the complexities of currency exchange. Stay informed with practical advice and up-to-date trends to make the most of your international financial activities.
+    </p>
+
+    {{ content | safe }}
+
+</div>
+
+<script defer src="/static/js/exchange-rate.js"></script>

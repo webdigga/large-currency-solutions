@@ -18,10 +18,12 @@
     <meta name="google-site-verification" content="CbJlBD7rN0VMsO-FnqoLg10RjB2CX1VpmmEiB75UUjQ" />
 
     <title>
-      {% if title %}
+      {% if seoTitle %}
+        {{ seoTitle }}
+      {% elif title %}
         {{ title }}
       {% else %}
-        {{ settings.title }}
+        {{ settings.seoTitle }}
       {% endif %}
     </title>
 
@@ -54,10 +56,14 @@
 
     <meta name="og:site_name" property="og:site_name" content="{{ settings.title }}">
     <meta name="twitter:site" content="{{ settings.title }}">
-    <meta name="og:locale" property="og:locale" content="en_GB">  
-
+    <meta name="og:locale" property="og:locale" content="en_GB"> 
+    
     {% if title %}
       <link rel="canonical" href="{{ env.site }}/{{ title | slugify }}/" />
+    {% elif type === 'home' %}
+      <link rel="canonical" href="{{ env.site }}/" />
+    {% elif type === 'latestNews' %}
+      <link rel="canonical" href="{{ env.site }}/latest-news" />
     {% endif %}
 
     {% if type === 'home' %}
@@ -97,7 +103,7 @@
       </script>
     {% endif %}
 
-    {% if type === 'blog' %}
+    {% if type === 'latestNews' %}
       <script type="application/ld+json">
         {
           "@context": "https://schema.org",
