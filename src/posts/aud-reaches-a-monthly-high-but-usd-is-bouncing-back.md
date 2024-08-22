@@ -8,6 +8,10 @@ type: latestNews
 tags:
   - latestNews
 heroImage: /static/img/pexels-miles-7654007.webp
+buttonOneText: Get A Free Quote
+buttonOneUrl: https://www.currencysolutions.com/?utm_source=arragon-affiliates
+buttonTwoText: Open Free Account
+buttonTwoUrl: https://www.currencysolutions.com/register?utm_source=arragon-affiliates
 ---
 ## Australian Dollar (AUD) Continues to Weaken Against the US Dollar (USD) in August 2024
 
