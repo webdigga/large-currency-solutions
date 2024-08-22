@@ -24,7 +24,7 @@ Convert Pounds to Dollars at Excellent Rates with No Fees on Transfers Over £3k
 
 The current exchange rate from GBP to USD is 0.78 as of 2nd August  2024.
 
-![Graph showing currency conversion](/static/img/0.webp "Currency Convertor GBP to USD")
+<img src="/static/img/0.webp" width="1035" height="394px" alt="Graph showing currency conversion" title="Currency Convertor GBP to USD" />
 
 ### Quick Steps to Convert Pounds to Dollars
 
